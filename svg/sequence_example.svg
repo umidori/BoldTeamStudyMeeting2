@@ -14,15 +14,15 @@
 <polygon fill="none" stroke="black" points="90,-108 36,-108 36,-72 90,-72 90,-108"/>
 <text text-anchor="middle" x="63" y="-84.2" font-family="Times,serif" font-size="14.00">名前</text>
 </g>
-<!-- 性 -->
+<!-- 姓 -->
 <g id="node2" class="node">
-<title>性</title>
+<title>姓</title>
 <polygon fill="none" stroke="black" points="54,-36 0,-36 0,0 54,0 54,-36"/>
-<text text-anchor="middle" x="27" y="-12.2" font-family="Times,serif" font-size="14.00">性</text>
+<text text-anchor="middle" x="27" y="-12.2" font-family="Times,serif" font-size="14.00">姓</text>
 </g>
-<!-- 名前&#45;&#45;性 -->
+<!-- 名前&#45;&#45;姓 -->
 <g id="edge1" class="edge">
-<title>名前&#45;&#45;性</title>
+<title>名前&#45;&#45;姓</title>
 <path fill="none" stroke="black" d="M54.1,-71.7C48.52,-60.85 41.36,-46.92 35.8,-36.1"/>
 </g>
 <!-- 名 -->
